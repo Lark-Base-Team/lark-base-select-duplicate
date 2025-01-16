@@ -11,6 +11,12 @@ const resources = {
       'Welcome to UIBuilder': 'Welcome to UIBuilder',
     },
   },
+  ja: {
+    translation: {
+      // 日本語のテキストを定義する
+      'Welcome to UIBuilder': 'UIBuilderへようこそ',
+    },
+  },
 };
 
 export default resources;
